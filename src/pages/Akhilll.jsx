@@ -1,13 +1,13 @@
 import React from 'react'
 
-function Akhil() {
+function Akhilll() {
   return (
     <>
     <div>
-        <h1>Rooted</h1>
+        <h1>Akhil</h1>
     </div>
     </>
   )
 }
 
-export default Akhil
+export default Akhilll
